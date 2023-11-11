@@ -1,1 +1,0 @@
-We are creating our first python project
